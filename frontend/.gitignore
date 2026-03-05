@@ -1,0 +1,10 @@
+# Stick RPG Frontend
+node_modules/
+dist/
+.env.local
+.env.*.local
+.DS_Store
+out/
+.next
+.vercel
+.cache/

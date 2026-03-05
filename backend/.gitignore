@@ -1,0 +1,12 @@
+# Stick RPG Backend
+node_modules/
+.env
+.env.local
+*.log
+npm-debug.log*
+.DS_Store
+src/cache/
+src/saves/
+dist/
+.next
+.vercel
